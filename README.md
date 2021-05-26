@@ -9,9 +9,14 @@ I am a student of Computer Science at the Federal University of São Carlos (UFS
 - Deep Learning
 - Machine Learning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyred&count_private=true&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyred&theme=radical" />
+</a>
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tyred&count_private=true&show_icons=true&theme=radical" />
+</a>
 <!--
 **Tyred/Tyred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
