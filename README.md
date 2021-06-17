@@ -10,7 +10,7 @@ I am a student of Computer Science at the Federal University of São Carlos (UFS
 - Machine Learning
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyred&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyred&theme=radical&hide=Java,html&langs_count=3" />
 </a>
 
 
