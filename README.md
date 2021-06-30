@@ -5,7 +5,7 @@
 I am a student of Computer Science at the Federal University of São Carlos (UFSCar), Brazil. I am passionate about Machine Learning and Deep Learning. Feel free to reach me out! :smile:
 
 ## Main Interests
-- Time Series Data Mining
+- Time Series Classification and Data Mining
 - Deep Learning
 - Machine Learning
 
