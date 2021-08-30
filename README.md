@@ -1,10 +1,11 @@
 # Hello there, I'm Yuri Gabriel Aragão da Silva
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/yuri-aragao/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-aragao/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuri.gabrielaragaobol@gmail.com)
 
 I'm a CS student at Federal University of São Carlos (UFSCar), Brazil. 
 
-Currently working as an AI Intern at [Samsung R&D Institute Brazil (SRBR)](https://research.samsung.com/srbr) and Undergraduate Research Assistant.
+Currently working as an AI Intern at [Samsung R&D Institute Brazil (SRBR)](https://research.samsung.com/srbr) and as an Undergraduate Research Assistant at my University.
 
 Feel free to reach me out! :smile:
 
