@@ -4,7 +4,7 @@
 
 I'm a CS student at Federal University of São Carlos (UFSCar), Brazil. 
 
-Currently working as an AI Intern at [Samsung R&D Institute Brazil (SRBR)](https://research.samsung.com/srbr) and as an Undergraduate Research Assistant at my University.
+Currently working as an AI Research Intern at [Samsung R&D Institute Brazil (SRBR)](https://research.samsung.com/srbr) and as an Undergraduate Research Assistant at my University.
 
 Feel free to reach me out! :smile:
 
