@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-aragao/)
 
-I'm a CS student at Federal University of São Carlos (UFSCar), Brazil. 
+I'm a AI Research Engineer at Samsung. 
 
-Currently working as an AI Research Intern at [Samsung R&D Institute Brazil (SRBR)](https://research.samsung.com/srbr) and as an Undergraduate Research Assistant at my University.
+BSc in Computer Science from the Federal University of São Carlos, currently planning to pursue a Master's ~and maybe a PhD~ degree 🚀
 
 Feel free to reach me out! :smile:
 
