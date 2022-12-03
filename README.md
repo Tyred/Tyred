@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-aragao/)
 
-I'm a AI Research Engineer at Samsung. 
+I'm an AI Research Engineer at Samsung.
 
-BSc in Computer Science from the Federal University of São Carlos, currently planning to pursue a Master's ~and maybe a PhD~ degree 🚀
+BSc in Computer Science from the Federal University of São Carlos, currently planning to pursue a PhD degree 🚀
 
 Feel free to reach me out! :smile:
 
