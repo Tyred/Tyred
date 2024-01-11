@@ -4,14 +4,13 @@
 
 I'm Yuri,
 
-BSc in Computer Science from the Federal University of São Carlos and former AI Research Engineer at Samsung, I'm currently pursuing a PhD in Computer Science and Computational Mathematics at University of São Paulo.
-
-My PhD research is about Machine Learning applied to Health Solutions using mobile and wearable devices.
+BSc in Computer Science from the Federal University of São Carlos and former AI Research Engineer at Samsung.
 
 Feel free to reach me out! :smile:
 
 ## Main Interests
 - Deep Learning
 - Health Research
+- Data Science
 - Time Series Applications
 - Computer Vision
